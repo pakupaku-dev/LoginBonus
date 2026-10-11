@@ -1,4 +1,4 @@
-package jp.kamei.rewards;
+package jp.pakupaku.rewards;
 
 import com.google.gson.*;
 import com.zaxxer.hikari.*;

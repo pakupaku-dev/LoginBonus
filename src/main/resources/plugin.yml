@@ -1,8 +1,8 @@
 name: ${plugin.name}
 version: ${project.version}
-main: jp.kamei.rewards.${plugin.name}Plugin
+main: jp.pakupaku.rewards.${plugin.name}Plugin
 api-version: '26.2'
-author: kamei
+author: pakupaku
 depend: [DetailedPlayerStats]
 softdepend: [WorldStateSync, RelishEconomy]
 commands:
