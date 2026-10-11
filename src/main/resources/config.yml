@@ -1,0 +1,22 @@
+# Shared across all servers. Changes apply after an OP runs /dailyquests publish
+# or /loginbonus publish. Existing daily boards/policies remain unchanged.
+inherit-worldstatesync-mysql: true
+mysql:
+  host: localhost
+  port: 3306
+  database: minecraft
+  username: minecraft
+  password: ''
+  use-ssl: false
+economy-database: relisheconomy
+currency: dollars
+poll-seconds: 5
+daily-count: 16
+login:
+  base: 500
+  per-streak-day: 100
+  milestones:
+    '7': 1000
+    '30': 5000
+    '100': 20000
+    '365': 100000

@@ -1,0 +1,1937 @@
+[
+  {
+    "id": "mine_stone_100",
+    "category": "採掘",
+    "title": "石を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:stone",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_stone_300",
+    "category": "採掘",
+    "title": "石を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:stone",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_deepslate_100",
+    "category": "採掘",
+    "title": "深層岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_deepslate_300",
+    "category": "採掘",
+    "title": "深層岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_granite_100",
+    "category": "採掘",
+    "title": "花崗岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:granite",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_granite_300",
+    "category": "採掘",
+    "title": "花崗岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:granite",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_diorite_100",
+    "category": "採掘",
+    "title": "閃緑岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:diorite",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_diorite_300",
+    "category": "採掘",
+    "title": "閃緑岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:diorite",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_andesite_100",
+    "category": "採掘",
+    "title": "安山岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:andesite",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_andesite_300",
+    "category": "採掘",
+    "title": "安山岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:andesite",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_tuff_100",
+    "category": "採掘",
+    "title": "凝灰岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:tuff",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_tuff_300",
+    "category": "採掘",
+    "title": "凝灰岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:tuff",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_calcite_100",
+    "category": "採掘",
+    "title": "方解石を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:calcite",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_calcite_300",
+    "category": "採掘",
+    "title": "方解石を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:calcite",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_netherrack_100",
+    "category": "採掘",
+    "title": "ネザーラックを100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:netherrack",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_netherrack_300",
+    "category": "採掘",
+    "title": "ネザーラックを300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:netherrack",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_blackstone_100",
+    "category": "採掘",
+    "title": "ブラックストーンを100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:blackstone",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_blackstone_300",
+    "category": "採掘",
+    "title": "ブラックストーンを300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:blackstone",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_basalt_100",
+    "category": "採掘",
+    "title": "玄武岩を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:basalt",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_basalt_300",
+    "category": "採掘",
+    "title": "玄武岩を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:basalt",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_end_stone_100",
+    "category": "採掘",
+    "title": "エンドストーンを100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:end_stone",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_end_stone_300",
+    "category": "採掘",
+    "title": "エンドストーンを300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:end_stone",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_sand_100",
+    "category": "採掘",
+    "title": "砂を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:sand",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_sand_300",
+    "category": "採掘",
+    "title": "砂を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:sand",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_red_sand_100",
+    "category": "採掘",
+    "title": "赤い砂を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:red_sand",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_red_sand_300",
+    "category": "採掘",
+    "title": "赤い砂を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:red_sand",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_gravel_100",
+    "category": "採掘",
+    "title": "砂利を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:gravel",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_gravel_300",
+    "category": "採掘",
+    "title": "砂利を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:gravel",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_clay_100",
+    "category": "採掘",
+    "title": "粘土を100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:clay",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_clay_300",
+    "category": "採掘",
+    "title": "粘土を300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:clay",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_terracotta_100",
+    "category": "採掘",
+    "title": "テラコッタを100個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:terracotta",
+    "target": 100,
+    "reward": 500
+  },
+  {
+    "id": "block_break_terracotta_300",
+    "category": "採掘",
+    "title": "テラコッタを300個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:terracotta",
+    "target": 300,
+    "reward": 1200
+  },
+  {
+    "id": "block_break_coal_ore_8",
+    "category": "採掘",
+    "title": "石炭鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:coal_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_coal_ore_24",
+    "category": "採掘",
+    "title": "石炭鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:coal_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_coal_ore_8",
+    "category": "採掘",
+    "title": "深層石炭鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_coal_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_coal_ore_24",
+    "category": "採掘",
+    "title": "深層石炭鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_coal_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_iron_ore_8",
+    "category": "採掘",
+    "title": "鉄鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:iron_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_iron_ore_24",
+    "category": "採掘",
+    "title": "鉄鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:iron_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_iron_ore_8",
+    "category": "採掘",
+    "title": "深層鉄鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_iron_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_iron_ore_24",
+    "category": "採掘",
+    "title": "深層鉄鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_iron_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_copper_ore_8",
+    "category": "採掘",
+    "title": "銅鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:copper_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_copper_ore_24",
+    "category": "採掘",
+    "title": "銅鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:copper_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_copper_ore_8",
+    "category": "採掘",
+    "title": "深層銅鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_copper_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_copper_ore_24",
+    "category": "採掘",
+    "title": "深層銅鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_copper_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_gold_ore_8",
+    "category": "採掘",
+    "title": "金鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:gold_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_gold_ore_24",
+    "category": "採掘",
+    "title": "金鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:gold_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_gold_ore_8",
+    "category": "採掘",
+    "title": "深層金鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_gold_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_gold_ore_24",
+    "category": "採掘",
+    "title": "深層金鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_gold_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_redstone_ore_8",
+    "category": "採掘",
+    "title": "レッドストーン鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:redstone_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_redstone_ore_24",
+    "category": "採掘",
+    "title": "レッドストーン鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:redstone_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_redstone_ore_8",
+    "category": "採掘",
+    "title": "深層レッドストーン鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_redstone_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_redstone_ore_24",
+    "category": "採掘",
+    "title": "深層レッドストーン鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_redstone_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_lapis_ore_8",
+    "category": "採掘",
+    "title": "ラピスラズリ鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:lapis_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_lapis_ore_24",
+    "category": "採掘",
+    "title": "ラピスラズリ鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:lapis_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_lapis_ore_8",
+    "category": "採掘",
+    "title": "深層ラピスラズリ鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_lapis_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_lapis_ore_24",
+    "category": "採掘",
+    "title": "深層ラピスラズリ鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_lapis_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_diamond_ore_8",
+    "category": "採掘",
+    "title": "ダイヤモンド鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:diamond_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_diamond_ore_24",
+    "category": "採掘",
+    "title": "ダイヤモンド鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:diamond_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_deepslate_diamond_ore_8",
+    "category": "採掘",
+    "title": "深層ダイヤモンド鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_diamond_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_deepslate_diamond_ore_24",
+    "category": "採掘",
+    "title": "深層ダイヤモンド鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:deepslate_diamond_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_emerald_ore_8",
+    "category": "採掘",
+    "title": "エメラルド鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:emerald_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_emerald_ore_24",
+    "category": "採掘",
+    "title": "エメラルド鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:emerald_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_nether_quartz_ore_8",
+    "category": "採掘",
+    "title": "ネザークォーツ鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:nether_quartz_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_nether_quartz_ore_24",
+    "category": "採掘",
+    "title": "ネザークォーツ鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:nether_quartz_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_nether_gold_ore_8",
+    "category": "採掘",
+    "title": "ネザー金鉱石を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:nether_gold_ore",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_nether_gold_ore_24",
+    "category": "採掘",
+    "title": "ネザー金鉱石を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:nether_gold_ore",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_ancient_debris_8",
+    "category": "採掘",
+    "title": "古代の残骸を8個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:ancient_debris",
+    "target": 8,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_ancient_debris_24",
+    "category": "採掘",
+    "title": "古代の残骸を24個採掘する",
+    "kind": "block_break",
+    "subject": "minecraft:ancient_debris",
+    "target": 24,
+    "reward": 2500
+  },
+  {
+    "id": "block_break_oak_log_32",
+    "category": "林業・農業",
+    "title": "オークの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:oak_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_oak_log_96",
+    "category": "林業・農業",
+    "title": "オークの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:oak_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_spruce_log_32",
+    "category": "林業・農業",
+    "title": "トウヒの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:spruce_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_spruce_log_96",
+    "category": "林業・農業",
+    "title": "トウヒの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:spruce_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_birch_log_32",
+    "category": "林業・農業",
+    "title": "シラカバの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:birch_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_birch_log_96",
+    "category": "林業・農業",
+    "title": "シラカバの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:birch_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_jungle_log_32",
+    "category": "林業・農業",
+    "title": "ジャングルの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:jungle_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_jungle_log_96",
+    "category": "林業・農業",
+    "title": "ジャングルの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:jungle_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_acacia_log_32",
+    "category": "林業・農業",
+    "title": "アカシアの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:acacia_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_acacia_log_96",
+    "category": "林業・農業",
+    "title": "アカシアの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:acacia_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_dark_oak_log_32",
+    "category": "林業・農業",
+    "title": "ダークオークの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:dark_oak_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_dark_oak_log_96",
+    "category": "林業・農業",
+    "title": "ダークオークの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:dark_oak_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_mangrove_log_32",
+    "category": "林業・農業",
+    "title": "マングローブの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:mangrove_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_mangrove_log_96",
+    "category": "林業・農業",
+    "title": "マングローブの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:mangrove_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_cherry_log_32",
+    "category": "林業・農業",
+    "title": "サクラの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:cherry_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_cherry_log_96",
+    "category": "林業・農業",
+    "title": "サクラの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:cherry_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_pale_oak_log_32",
+    "category": "林業・農業",
+    "title": "ペールオークの原木を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:pale_oak_log",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_pale_oak_log_96",
+    "category": "林業・農業",
+    "title": "ペールオークの原木を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:pale_oak_log",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_crimson_stem_32",
+    "category": "林業・農業",
+    "title": "真紅の幹を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:crimson_stem",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_crimson_stem_96",
+    "category": "林業・農業",
+    "title": "真紅の幹を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:crimson_stem",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_warped_stem_32",
+    "category": "林業・農業",
+    "title": "歪んだ幹を32個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:warped_stem",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_warped_stem_96",
+    "category": "林業・農業",
+    "title": "歪んだ幹を96個伐採する",
+    "kind": "block_break",
+    "subject": "minecraft:warped_stem",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_wheat_32",
+    "category": "林業・農業",
+    "title": "成熟した小麦を32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:wheat",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_wheat_96",
+    "category": "林業・農業",
+    "title": "成熟した小麦を96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:wheat",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_carrots_32",
+    "category": "林業・農業",
+    "title": "成熟したニンジンを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:carrots",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_carrots_96",
+    "category": "林業・農業",
+    "title": "成熟したニンジンを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:carrots",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_potatoes_32",
+    "category": "林業・農業",
+    "title": "成熟したジャガイモを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:potatoes",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_potatoes_96",
+    "category": "林業・農業",
+    "title": "成熟したジャガイモを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:potatoes",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_beetroots_32",
+    "category": "林業・農業",
+    "title": "成熟したビートルートを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:beetroots",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_beetroots_96",
+    "category": "林業・農業",
+    "title": "成熟したビートルートを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:beetroots",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_sugar_cane_32",
+    "category": "林業・農業",
+    "title": "サトウキビを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:sugar_cane",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_sugar_cane_96",
+    "category": "林業・農業",
+    "title": "サトウキビを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:sugar_cane",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_bamboo_32",
+    "category": "林業・農業",
+    "title": "竹を32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:bamboo",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_bamboo_96",
+    "category": "林業・農業",
+    "title": "竹を96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:bamboo",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_melon_32",
+    "category": "林業・農業",
+    "title": "スイカを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:melon",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_melon_96",
+    "category": "林業・農業",
+    "title": "スイカを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:melon",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "block_break_pumpkin_32",
+    "category": "林業・農業",
+    "title": "カボチャを32個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:pumpkin",
+    "target": 32,
+    "reward": 400
+  },
+  {
+    "id": "block_break_pumpkin_96",
+    "category": "林業・農業",
+    "title": "カボチャを96個収穫する",
+    "kind": "block_break",
+    "subject": "minecraft:pumpkin",
+    "target": 96,
+    "reward": 1000
+  },
+  {
+    "id": "kill_zombie_10",
+    "category": "戦闘",
+    "title": "ゾンビを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:zombie",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_zombie_30",
+    "category": "戦闘",
+    "title": "ゾンビを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:zombie",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_skeleton_10",
+    "category": "戦闘",
+    "title": "スケルトンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:skeleton",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_skeleton_30",
+    "category": "戦闘",
+    "title": "スケルトンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:skeleton",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_creeper_10",
+    "category": "戦闘",
+    "title": "クリーパーを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:creeper",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_creeper_30",
+    "category": "戦闘",
+    "title": "クリーパーを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:creeper",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_spider_10",
+    "category": "戦闘",
+    "title": "クモを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:spider",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_spider_30",
+    "category": "戦闘",
+    "title": "クモを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:spider",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_cave_spider_10",
+    "category": "戦闘",
+    "title": "洞窟グモを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:cave_spider",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_cave_spider_30",
+    "category": "戦闘",
+    "title": "洞窟グモを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:cave_spider",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_husk_10",
+    "category": "戦闘",
+    "title": "ハスクを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:husk",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_husk_30",
+    "category": "戦闘",
+    "title": "ハスクを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:husk",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_stray_10",
+    "category": "戦闘",
+    "title": "ストレイを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:stray",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_stray_30",
+    "category": "戦闘",
+    "title": "ストレイを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:stray",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_drowned_10",
+    "category": "戦闘",
+    "title": "ドラウンドを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:drowned",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_drowned_30",
+    "category": "戦闘",
+    "title": "ドラウンドを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:drowned",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_enderman_10",
+    "category": "戦闘",
+    "title": "エンダーマンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:enderman",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_enderman_30",
+    "category": "戦闘",
+    "title": "エンダーマンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:enderman",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_witch_10",
+    "category": "戦闘",
+    "title": "ウィッチを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:witch",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_witch_30",
+    "category": "戦闘",
+    "title": "ウィッチを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:witch",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_slime_10",
+    "category": "戦闘",
+    "title": "スライムを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:slime",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_slime_30",
+    "category": "戦闘",
+    "title": "スライムを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:slime",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_magma_cube_10",
+    "category": "戦闘",
+    "title": "マグマキューブを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:magma_cube",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_magma_cube_30",
+    "category": "戦闘",
+    "title": "マグマキューブを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:magma_cube",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_blaze_10",
+    "category": "戦闘",
+    "title": "ブレイズを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:blaze",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_blaze_30",
+    "category": "戦闘",
+    "title": "ブレイズを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:blaze",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_wither_skeleton_10",
+    "category": "戦闘",
+    "title": "ウィザースケルトンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:wither_skeleton",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_wither_skeleton_30",
+    "category": "戦闘",
+    "title": "ウィザースケルトンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:wither_skeleton",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_piglin_10",
+    "category": "戦闘",
+    "title": "ピグリンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:piglin",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_piglin_30",
+    "category": "戦闘",
+    "title": "ピグリンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:piglin",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_hoglin_10",
+    "category": "戦闘",
+    "title": "ホグリンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:hoglin",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_hoglin_30",
+    "category": "戦闘",
+    "title": "ホグリンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:hoglin",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_ghast_10",
+    "category": "戦闘",
+    "title": "ガストを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:ghast",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_ghast_30",
+    "category": "戦闘",
+    "title": "ガストを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:ghast",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_phantom_10",
+    "category": "戦闘",
+    "title": "ファントムを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:phantom",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_phantom_30",
+    "category": "戦闘",
+    "title": "ファントムを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:phantom",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_pillager_10",
+    "category": "戦闘",
+    "title": "ピリジャーを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:pillager",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_pillager_30",
+    "category": "戦闘",
+    "title": "ピリジャーを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:pillager",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "kill_guardian_10",
+    "category": "戦闘",
+    "title": "ガーディアンを10体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:guardian",
+    "target": 10,
+    "reward": 600
+  },
+  {
+    "id": "kill_guardian_30",
+    "category": "戦闘",
+    "title": "ガーディアンを30体倒す",
+    "kind": "mob_kill",
+    "subject": "minecraft:guardian",
+    "target": 30,
+    "reward": 1500
+  },
+  {
+    "id": "craft_torch_16",
+    "category": "製作",
+    "title": "松明を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:torch",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_torch_64",
+    "category": "製作",
+    "title": "松明を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:torch",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_bread_16",
+    "category": "製作",
+    "title": "パンを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:bread",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_bread_64",
+    "category": "製作",
+    "title": "パンを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:bread",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_glass_bottle_16",
+    "category": "製作",
+    "title": "ガラス瓶を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:glass_bottle",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_glass_bottle_64",
+    "category": "製作",
+    "title": "ガラス瓶を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:glass_bottle",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_ladder_16",
+    "category": "製作",
+    "title": "はしごを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:ladder",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_ladder_64",
+    "category": "製作",
+    "title": "はしごを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:ladder",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_rail_16",
+    "category": "製作",
+    "title": "レールを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:rail",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_rail_64",
+    "category": "製作",
+    "title": "レールを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:rail",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_oak_planks_16",
+    "category": "製作",
+    "title": "オークの板材を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:oak_planks",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_oak_planks_64",
+    "category": "製作",
+    "title": "オークの板材を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:oak_planks",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_spruce_planks_16",
+    "category": "製作",
+    "title": "トウヒの板材を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:spruce_planks",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_spruce_planks_64",
+    "category": "製作",
+    "title": "トウヒの板材を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:spruce_planks",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_paper_16",
+    "category": "製作",
+    "title": "紙を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:paper",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_paper_64",
+    "category": "製作",
+    "title": "紙を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:paper",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_book_16",
+    "category": "製作",
+    "title": "本を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:book",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_book_64",
+    "category": "製作",
+    "title": "本を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:book",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_chest_16",
+    "category": "製作",
+    "title": "チェストを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:chest",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_chest_64",
+    "category": "製作",
+    "title": "チェストを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:chest",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_barrel_16",
+    "category": "製作",
+    "title": "樽を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:barrel",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_barrel_64",
+    "category": "製作",
+    "title": "樽を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:barrel",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_stone_bricks_16",
+    "category": "製作",
+    "title": "石レンガを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:stone_bricks",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_stone_bricks_64",
+    "category": "製作",
+    "title": "石レンガを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:stone_bricks",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_bricks_16",
+    "category": "製作",
+    "title": "レンガを16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:bricks",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_bricks_64",
+    "category": "製作",
+    "title": "レンガを64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:bricks",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_polished_andesite_16",
+    "category": "製作",
+    "title": "磨かれた安山岩を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:polished_andesite",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_polished_andesite_64",
+    "category": "製作",
+    "title": "磨かれた安山岩を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:polished_andesite",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "craft_flower_pot_16",
+    "category": "製作",
+    "title": "植木鉢を16個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:flower_pot",
+    "target": 16,
+    "reward": 300
+  },
+  {
+    "id": "craft_flower_pot_64",
+    "category": "製作",
+    "title": "植木鉢を64個クラフトする",
+    "kind": "statistic_change",
+    "subject": "craft_item:minecraft:flower_pot",
+    "target": 64,
+    "reward": 800
+  },
+  {
+    "id": "smelt_collect_iron_ingot_16",
+    "category": "生活",
+    "title": "鉄インゴットを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:iron_ingot",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_iron_ingot_64",
+    "category": "生活",
+    "title": "鉄インゴットを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:iron_ingot",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_copper_ingot_16",
+    "category": "生活",
+    "title": "銅インゴットを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:copper_ingot",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_copper_ingot_64",
+    "category": "生活",
+    "title": "銅インゴットを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:copper_ingot",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_gold_ingot_16",
+    "category": "生活",
+    "title": "金インゴットを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:gold_ingot",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_gold_ingot_64",
+    "category": "生活",
+    "title": "金インゴットを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:gold_ingot",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_glass_16",
+    "category": "生活",
+    "title": "ガラスを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:glass",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_glass_64",
+    "category": "生活",
+    "title": "ガラスを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:glass",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_stone_16",
+    "category": "生活",
+    "title": "石を16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:stone",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_stone_64",
+    "category": "生活",
+    "title": "石を64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:stone",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_smooth_stone_16",
+    "category": "生活",
+    "title": "滑らかな石を16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:smooth_stone",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_smooth_stone_64",
+    "category": "生活",
+    "title": "滑らかな石を64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:smooth_stone",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_baked_potato_16",
+    "category": "生活",
+    "title": "ベイクドポテトを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:baked_potato",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_baked_potato_64",
+    "category": "生活",
+    "title": "ベイクドポテトを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:baked_potato",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_cooked_beef_16",
+    "category": "生活",
+    "title": "ステーキを16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_beef",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_cooked_beef_64",
+    "category": "生活",
+    "title": "ステーキを64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_beef",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_cooked_porkchop_16",
+    "category": "生活",
+    "title": "焼き豚を16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_porkchop",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_cooked_porkchop_64",
+    "category": "生活",
+    "title": "焼き豚を64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_porkchop",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "smelt_collect_cooked_chicken_16",
+    "category": "生活",
+    "title": "焼き鳥を16個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_chicken",
+    "target": 16,
+    "reward": 400
+  },
+  {
+    "id": "smelt_collect_cooked_chicken_64",
+    "category": "生活",
+    "title": "焼き鳥を64個かまどから回収する",
+    "kind": "smelt_collect",
+    "subject": "minecraft:cooked_chicken",
+    "target": 64,
+    "reward": 1000
+  },
+  {
+    "id": "fish_catch_cod_5",
+    "category": "生活",
+    "title": "タラを5個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:cod",
+    "target": 5,
+    "reward": 400
+  },
+  {
+    "id": "fish_catch_cod_15",
+    "category": "生活",
+    "title": "タラを15個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:cod",
+    "target": 15,
+    "reward": 1000
+  },
+  {
+    "id": "fish_catch_salmon_5",
+    "category": "生活",
+    "title": "サケを5個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:salmon",
+    "target": 5,
+    "reward": 400
+  },
+  {
+    "id": "fish_catch_salmon_15",
+    "category": "生活",
+    "title": "サケを15個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:salmon",
+    "target": 15,
+    "reward": 1000
+  },
+  {
+    "id": "fish_catch_pufferfish_5",
+    "category": "生活",
+    "title": "フグを5個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:pufferfish",
+    "target": 5,
+    "reward": 400
+  },
+  {
+    "id": "fish_catch_pufferfish_15",
+    "category": "生活",
+    "title": "フグを15個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:pufferfish",
+    "target": 15,
+    "reward": 1000
+  },
+  {
+    "id": "fish_catch_tropical_fish_5",
+    "category": "生活",
+    "title": "熱帯魚を5個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:tropical_fish",
+    "target": 5,
+    "reward": 400
+  },
+  {
+    "id": "fish_catch_tropical_fish_15",
+    "category": "生活",
+    "title": "熱帯魚を15個釣る",
+    "kind": "fish_catch",
+    "subject": "minecraft:tropical_fish",
+    "target": 15,
+    "reward": 1000
+  },
+  {
+    "id": "breed_cow",
+    "category": "林業・農業",
+    "title": "牛を5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:cow",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_sheep",
+    "category": "林業・農業",
+    "title": "羊を5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:sheep",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_pig",
+    "category": "林業・農業",
+    "title": "豚を5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:pig",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_chicken",
+    "category": "林業・農業",
+    "title": "ニワトリを5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:chicken",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_horse",
+    "category": "林業・農業",
+    "title": "馬を5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:horse",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_rabbit",
+    "category": "林業・農業",
+    "title": "ウサギを5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:rabbit",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_goat",
+    "category": "林業・農業",
+    "title": "ヤギを5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:goat",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "breed_llama",
+    "category": "林業・農業",
+    "title": "ラマを5回繁殖させる",
+    "kind": "breed",
+    "subject": "minecraft:llama",
+    "target": 5,
+    "reward": 700
+  },
+  {
+    "id": "trade_5",
+    "category": "生活",
+    "title": "村人と5回取引する",
+    "kind": "statistic_change",
+    "subject": "traded_with_villager",
+    "target": 5,
+    "reward": 400
+  },
+  {
+    "id": "trade_20",
+    "category": "生活",
+    "title": "村人と20回取引する",
+    "kind": "statistic_change",
+    "subject": "traded_with_villager",
+    "target": 20,
+    "reward": 1200
+  },
+  {
+    "id": "trade_50",
+    "category": "生活",
+    "title": "村人と50回取引する",
+    "kind": "statistic_change",
+    "subject": "traded_with_villager",
+    "target": 50,
+    "reward": 2500
+  }
+]

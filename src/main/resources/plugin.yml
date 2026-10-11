@@ -1,0 +1,14 @@
+name: ${plugin.name}
+version: ${project.version}
+main: jp.kamei.rewards.${plugin.name}Plugin
+api-version: '26.2'
+author: kamei
+depend: [DetailedPlayerStats]
+softdepend: [WorldStateSync, RelishEconomy]
+commands:
+  ${plugin.command}:
+    description: View rewards or publish settings (OP)
+    usage: /${plugin.command} [status|publish]
+permissions:
+  rewards.admin:
+    default: op
